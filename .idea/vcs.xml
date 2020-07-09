@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/WEB-INF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/WEB-INF/classes/cn/edu/ahtcm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/WEB-INF/classes/util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/WEB-INF/lib" vcs="Git" />
+  </component>
+</project>
